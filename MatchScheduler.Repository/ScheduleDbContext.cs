@@ -12,7 +12,7 @@ namespace MatchScheduler.Repository
     {
         public ScheduleDbContext() : base("ScheduleDb")
         {
-
+            Database.CreateIfNotExists();
         }
 
         public DbSet<Schedule> Schedules { get; set; }
