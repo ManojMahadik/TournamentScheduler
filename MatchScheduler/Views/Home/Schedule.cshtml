@@ -1,0 +1,33 @@
+﻿@model  MatchScheduler.ViewModels.ScheduleViewModel
+
+@{
+    ViewBag.Title = "Schedule";
+}
+
+
+<h2 id="pageHead">Pro-Kabaddi Schedule</h2>
+<div class="form-group">
+    @Html.LabelFor(x => x.TournamentName, new { @class = "col-md-2" })
+    @Html.DisplayFor(x => x.TournamentName, new { htmlAttributes = new { @class = "form-control" } })
+ </div>
+
+    <table class="table table-striped">
+        <caption>Schedule:</caption>
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Match</th>
+                <th>Venue</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var sit in Model.ScheduleItems)
+            {
+                <tr>
+                    <td>@sit.Day</td>
+                    <td>@sit.MatchTitle</td>
+                    <td>@sit.Venue</td>
+                </tr>
+            }
+        </tbody>
+    </table>

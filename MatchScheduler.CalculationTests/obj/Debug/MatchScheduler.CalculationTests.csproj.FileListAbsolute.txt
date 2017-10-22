@@ -1,0 +1,15 @@
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\MatchScheduler.CalculationTests.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\MatchScheduler.CalculationTests.pdb
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\MatchScheduler.Calculation.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\MatchScheduler.Calculation.pdb
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\obj\Debug\MatchScheduler.CalculationTests.csprojResolveAssemblyReference.cache
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\obj\Debug\MatchScheduler.CalculationTests.csproj.CoreCompileInputs.cache
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\obj\Debug\MatchScheduler.CalculationTests.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.CalculationTests\obj\Debug\MatchScheduler.CalculationTests.pdb

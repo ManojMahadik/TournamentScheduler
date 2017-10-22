@@ -1,0 +1,6 @@
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.Model\obj\Debug\MatchScheduler.Model.csproj.CoreCompileInputs.cache
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.Model\bin\Debug\MatchScheduler.Model.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.Model\bin\Debug\MatchScheduler.Model.pdb
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.Model\obj\Debug\MatchScheduler.Model.dll
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.Model\obj\Debug\MatchScheduler.Model.pdb
+G:\MediaOcean_Assignment\MatchScheduler\MatchScheduler.Model\obj\Debug\MatchScheduler.Model.csprojResolveAssemblyReference.cache
